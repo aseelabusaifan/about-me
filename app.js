@@ -8,17 +8,17 @@ switch (edu){
         alert ('welcome to our university') ; }
 
 
-     let favourite drinks =prompt('is acofee my favourite drinks');
+     let favouritedrinks =prompt('is acofee my favourite drinks');
 
 
-     if (favourite drinks==='yes'|| favourite drinks=== 'y'){
-         console log (favourite drinks:,favourite drinks);
-         alert(good chooes);
+     if (favouritedrinks==='yes'|| favouritedrinks=== 'y'){
+         console log (favouritedrinks:,favouritedrinks);
+         alert (good chooes);
 
-     }else if (favourite drinks ==='no'||favourite drinks 'n');
+     }else if (favouritedrinks ==='no'||favouritedrinks 'n');
      alert ('its not my favourite ');
-     
+
     }else{
-        alert('pleas only write yes/y or no/n')
+        alert('pleas only write yes/y or no/n');
 
      }
