@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(247, 222, 253);
+  
+    text-align: center;
+}
+h1{
+    font-family: 'Merienda', cursive;
+    font-size: 4rem;
+    color: rgb(250, 209, 25);
+
+}
+h2{
+    font-family: 'Merienda', cursive;
+    font-size: 2rem;
+    color: rgb(250, 209, 25);
+}
+
+p{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1rem;
+}
+
+style{
+
+        border-radius: 50%;
+      
+}
+section{
+    color: rgb(160, 28, 28);
+    font-family: 'Anton', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Roboto Condensed', sans-serif;
+}

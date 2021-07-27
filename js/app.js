@@ -165,6 +165,20 @@ function question7() {
 
 
 
+    let  car = prompt('Is my favorite car doge charger? ??');
+
+    car  =  car.toLowerCase();
+    
+    function question7() {
+        if (car === 'yes' || car  === 'y') {
+    
+            alert('yes you got it');
+            score++;
+        }
+    
+        else if (  car=== 'no' ||car=== 'n') {
+            alert('try again');
+        }
 
 
 
