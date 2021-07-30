@@ -1,33 +1,41 @@
 body {
-    background-color: rgb(247, 222, 253);
-  
-    text-align: center;
+  background-color: rgb(247, 222, 253);
+  text-align: center;
 }
-h1{
-    font-family: 'Merienda', cursive;
-    font-size: 4rem;
-    color: rgb(250, 209, 25);
-
+h1 {
+  font-family: "Merienda", cursive;
+  font-size: 4rem;
+  color: rgb(250, 209, 25);
 }
-h2{
-    font-family: 'Merienda', cursive;
-    font-size: 2rem;
-    color: rgb(250, 209, 25);
-}
-
-p{
-    font-family: 'Roboto Condensed', sans-serif;
-    font-size: 1rem;
+img {
+width:300px;
+height: 300px;
+border-radius: 100%;
+margin-bottom: 50px;
 }
 
-style{
-
-        border-radius: 50%;
-      
+h2 {
+  font-family: "Merienda", cursive;
+  font-size: 2rem;
+  color: rgb(97, 25, 52);
+  margin: 50px;
 }
-section{
-    color: rgb(160, 28, 28);
-    font-family: 'Anton', sans-serif;
-font-family: 'Merriweather', serif;
-font-family: 'Roboto Condensed', sans-serif;
+
+p {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 1rem;
+}
+
+section {
+  color: rgb(160, 28, 28);
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+ol {
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+li{
+    margin: 20px;
+    font-weight: bold;
 }

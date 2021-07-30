@@ -169,7 +169,7 @@ function question7() {
 
     car  =  car.toLowerCase();
     
-    function question7() {
+    function question8() {
         if (car === 'yes' || car  === 'y') {
     
             alert('yes you got it');
@@ -179,7 +179,5 @@ function question7() {
         else if (  car=== 'no' ||car=== 'n') {
             alert('try again');
         }
-
-
-
-
+    }
+    question8();
